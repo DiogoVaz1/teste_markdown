@@ -7,3 +7,14 @@ Descrição do projeto
 * Nome 1
 * Nome 2
 * Nome 3
+
+## Requisitos (h2)
+### Minimos (h3)
+* requisito 1
+* requisito 2
+* requisito 3
+
+### Avançados (h3)
+* requisito 1
+* requisito 2
+* requisito 3
